@@ -33,7 +33,6 @@ This project explores how real estate investors can optimize Airbnb listings in 
 ## 📎 Files
 
 - 📂 `airbnb-investment-analysis-venice_dashboard.pbix`: Interactive dashboard (Power BI)  
-- 📽️ `airbnb-investment-analysis-venice_presenation.mp4`: Video walkthrough *(upload to Drive/YouTube and link)*  
 - 🖼️ `Final Project KOMLANVI.pptx`: Slide presentation
 
 ---
